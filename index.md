@@ -1,8 +1,3 @@
----
-layout: page
-title: Yao Chen (陈瑶)
----
-
 # 陈瑶 (Yao Chen)
 
 **PhD Student** [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://www.iie.cas.cn/)  
