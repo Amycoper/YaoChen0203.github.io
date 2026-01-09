@@ -1,4 +1,4 @@
-# 陈瑶 (Yao Chen)
+# Yao Chen(陈瑶)
 
 **PhD Student** [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://www.iie.cas.cn/)  
 [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)  
