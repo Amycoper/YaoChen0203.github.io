@@ -4,7 +4,7 @@
 * **Doctor of Philosophy in Computer Science**, Institute of Information Engineering, Chinese Academy of Sciences (2023 – 2028, expected)
 * **Bachelor of Science in Computer Science**, Beijing Normal University (2019 – 2023)
 
-**Email**: `chenyao2023@iie.ac.cn` / `chenyao23@mails.ucas.ac.cn` 
+**Email**: [chenyao2023@iie.ac.cn](mailto:chenyao2023@iie.ac.cn) / [chenyao23@mails.ucas.ac.cn](mailto:chenyao23@mails.ucas.ac.cn)
 
 ---
 
