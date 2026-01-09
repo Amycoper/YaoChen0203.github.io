@@ -1,14 +1,19 @@
-
 ---
 layout: page
-title: Yao Chen (陈垚)
+title: Yao Chen (陈瑶)
 ---
 
-# Yao Chen (陈垚)
+# 陈瑶 (Yao Chen)
 
 **PhD Student** [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://www.iie.cas.cn/)  
 [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)  
-Email: `your_email@iie.ac.cn` | [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
+Email: `chenyao2023@iie.ac.cn` / `chenyao23@mails.ucas.ac.cn` 
+
+---
+
+## Education
+* **PhD in Computer Science**, IIE, CAS (2023 – 2028, expected)
+* **B.S. in Computer Science**, Beijing Normal University (2019 – 2023)
 
 ---
 
@@ -20,24 +25,13 @@ I am a PhD student (Class of 2023) at the **Institute of Information Engineering
 
 ---
 
-## News
-* **[2025.09]** Our work on **Chain-of-Thought Distillation** was accepted by **EMNLP 2025**!
-
----
-
 ## Publications
 
 ### Conference Papers
-* **[EMNLP 2025]** **Chain-of-Thought Distillation for Large Language Models** **Yao Chen**, et al.  
-  *[Link to Paper/ArXiv]*
+* **Improving Reasoning Capabilities in Small Models through Mixture-of-layers Distillation with Stepwise Attention on Key Information** **Yao Chen**, et al.  
+  *In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**)* [[Paper]](https://aclanthology.org/2025.emnlp-main.250/)
 
 *(Note: Ongoing research projects are omitted to comply with double-blind review policies.)*
-
----
-
-## Education
-* **PhD in Computer Science**, IIE, CAS (2023 – 2028, expected)
-* **B.S. in Computer Science**, Beijing Normal University (2019 – 2023)
 
 ---
 <p align="center">Last updated: Jan 2026</p>
